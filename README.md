@@ -86,68 +86,94 @@ const akhtarAbbas = {
 
 <table>
 <tr>
-<th align="left">Project</th>
-<th align="left">What it is</th>
-<th align="left">Stack</th>
-</tr>
+<td width="50%" valign="top">
 
+### [Feel & Support (FSO)](https://feelandsupport.org)
+WordPress site + React member portal + a live RAG chatbot, for a non-profit.
+
+`WordPress` `React` `MySQL` `Groq LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### [7Scribes](https://7scribes.com)
+My agency's platform, now with an integrated AI chatbot.
+
+`WordPress` `PHP` `RAG Chatbot`
+
+</td>
+</tr>
 <tr>
-<td><b><a href="https://feelandsupport.org">Feel & Support (FSO)</a></b></td>
-<td>Full non-profit web ecosystem: custom WordPress public site, a separate React SPA member portal (JWT auth, custom WP REST API, role-based dashboards), and a live RAG chatbot answering scholarship & program questions in English and Roman Urdu.</td>
-<td>WordPress · React · Vite · Tailwind · MySQL · Groq LLM</td>
-</tr>
+<td width="50%" valign="top">
 
+### [Bazaar365](https://bazaar365.pk)
+Custom eCommerce store built from scratch, no page builders.
+
+`WordPress` `WooCommerce` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mahir AI](https://github.com/akhtarabbasjohari/mahir-ai)
+Home services booking app, 6 agent AI pipeline. Hackathon lead dev.
+
+`Flutter` `Gemini API` `Supabase`
+
+</td>
+</tr>
 <tr>
-<td><b><a href="https://7scribes.com">7Scribes</a></b></td>
-<td>Agency platform for 7Scribes with two subdomains (coding, tools), now with an integrated AI chatbot.</td>
-<td>WordPress · PHP · JS · RAG Chatbot</td>
-</tr>
+<td width="50%" valign="top">
 
+### [Smart Scholarship Agent](https://github.com/akhtarabbasjohari/smart-scholarship-agent)
+AI powered global university and scholarship finder.
+
+`Python` `Streamlit` `Groq LLaMA`
+
+</td>
+<td width="50%" valign="top">
+
+### [BSW Foundation](https://bswfoundation.com)
+Organizational website, fully custom WordPress build.
+
+`WordPress` `PHP` `JS`
+
+</td>
+</tr>
 <tr>
-<td><b><a href="https://bazaar365.pk">Bazaar365</a></b></td>
-<td>Custom eCommerce platform built from scratch on WordPress + WooCommerce.</td>
-<td>WordPress · WooCommerce · MySQL</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td><b><a href="https://github.com/akhtarabbasjohari/mahir-ai">Mahir AI</a></b></td>
-<td>Home-services booking app for Pakistan understanding Urdu, Roman Urdu, and English, powered by a 6-agent AI pipeline. Built for the AI Seekho Hackathon, lead developer, 5-person team.</td>
-<td>Flutter · Google Antigravity · Gemini API · Supabase</td>
-</tr>
+### [Askoli Adventure](https://askoliadventure.com)
+Travel and adventure booking site, custom WordPress build.
 
-<tr>
-<td><b><a href="https://github.com/akhtarabbasjohari/smart-scholarship-agent">Smart Scholarship Agent</a></b></td>
-<td>AI-powered global university & scholarship finder that searches, parses, and summarizes live results.</td>
-<td>Python · Streamlit · Groq LLaMA 3.3 70B · SerpAPI</td>
-</tr>
+`WordPress` `PHP` `JS`
 
-<tr>
-<td><b><a href="https://bswfoundation.com">BSW Foundation</a></b></td>
-<td>Organizational website for a foundation, built as a fully custom WordPress theme.</td>
-<td>WordPress · PHP · JS</td>
-</tr>
+</td>
+<td width="50%" valign="top">
 
-<tr>
-<td><b><a href="https://askoliadventure.com">Askoli Adventure</a></b></td>
-<td>Travel & adventure booking website, custom WordPress build.</td>
-<td>WordPress · PHP · JS</td>
-</tr>
+### [Diamond Architects](https://diamondarchitects.com.pk)
+Corporate site for an architecture firm, custom WordPress build.
 
-<tr>
-<td><b><a href="https://diamondarchitects.com.pk">Diamond Architects</a></b></td>
-<td>Corporate website for an architecture firm, custom WordPress build.</td>
-<td>WordPress · PHP · JS</td>
-</tr>
+`WordPress` `PHP` `JS`
 
+</td>
+</tr>
 </table>
+
 
 <br/>
 
 ## <img src="https://api.iconify.design/tabler:chart-dots.svg?color=%234F46E5" width="26" height="26" style="vertical-align:middle"/> GitHub Stats
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=akhtarabbasjohari&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhtarabbasjohari&theme=github_dark" height="300"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhtarabbasjohari&theme=github_dark" height="300"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
