@@ -3,14 +3,12 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Akhtar%20Abbas&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20and%20Custom%20WordPress%20Developer&descAlignY=60&descSize=18&descColor=E0E7FF" width="100%" alt="Akhtar Abbas Cover Banner" />
 
-  <br/>
-
   <!-- Animated Typing Tagline -->
   <a href="https://www.linkedin.com/in/akhtarabbas3/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Custom+WordPress+Developer;Building+RAG-based+AI+Agents+%26+Chatbots;Founder+%40+7Scribes;Remote+AI+Intern+%40+Arbisoft;Final-Year+BS+IT+Student" alt="Typing Tagline Animation" />
   </a>
-
-  <br/><br/>
+  
+  <br/>
 
   <!-- Quick Social & Platform Badges -->
   <a href="https://github.com/akhtarabbasjohari"><img src="https://komarev.com/ghpvc/?username=akhtarabbasjohari&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></a>
