@@ -33,7 +33,7 @@ Over the last year, I've expanded my technical scope into full stack application
 
 - **Founder of [7Scribes](https://7scribes.com)** — A dedicated web and app development agency crafting custom digital platforms.
 - **Final-Year BS IT Student** — Completing Bachelor of Science in Information Technology.
-- **Remote AI Intern @ Arbisoft** — Developing advanced AI workflows, model integrations, and intelligent automation.
+- **Remote AI Intern [@Arbisoft](https://arbisoft.com/)** — Developing advanced AI workflows, model integrations, and intelligent automation.
 - **Based in**: Lahore, Pakistan.
 
 ```javascript
