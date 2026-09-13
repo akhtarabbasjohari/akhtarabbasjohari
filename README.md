@@ -169,17 +169,6 @@ const akhtarAbbas = {
 
 <br/>
 
----
-
-## <img src="https://api.iconify.design/tabler:chart-dots.svg?color=%2306B6D4" width="28" height="28" style="vertical-align:middle"/> Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtarabbasjohari&theme=react-dark" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
----
 
 ## <img src="https://api.iconify.design/tabler:send.svg?color=%2306B6D4" width="28" height="28" style="vertical-align:middle"/> Let's Connect & Collaborate
 
@@ -193,7 +182,7 @@ const akhtarAbbas = {
   <a href="https://7scribes.com"><img src="https://img.shields.io/badge/7Scribes-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="7Scribes"/></a>
   <a href="https://www.facebook.com/akhtarabbasjohari"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-  <br/><br/>
+  <br/>
 
   <!-- Footer Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%" alt="Footer Banner"/>
